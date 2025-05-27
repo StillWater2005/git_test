@@ -1,1 +1,9 @@
 Hello Odin!
+Today I leart a few thing about internet, the five layered protocol stack that is used, how data is transfered being passed from one layer to another, with each layer providing a specified funcationality
+to the higher layer, relying on the funcationality of the layer below. The five layer of the TCP/IP protocol are:-
+1. Application layer
+2. Tranport layer
+3. Network layer
+4. Data link layer
+5. Physical layer
+The OSI model, along with these layer, also has 2 extra layer the session layer and the presentation layer, which on the internet is the responsibility of the application layer developer to develop if needed.
